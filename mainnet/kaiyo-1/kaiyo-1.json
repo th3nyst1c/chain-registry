@@ -3,9 +3,9 @@
     "chainName": "Kujira",
     "rpc": "https://rpc-kujira.whispernode.com:443",
     "rest": "https://lcd-kujira.whispernode.com:443",
-    "explorerUrl": "https://finder.kujira.app/",
+    "explorerUrl": "https://finder.kujira.network/kaiyo-1",
     "bech32Prefix": "kuji",
-    "exploreTxUrl": "https://finder.kujira.app/kaiyo-1/tx/",
+    "exploreTxUrl": "https://finder.kujira.network/kaiyo-1/tx/",
     "active": true,
     "staging": true,
     "currencies": [
@@ -29,7 +29,7 @@
         "average": 0.0051,
         "high": 0.00681
     },
-    "website": "https://kujira.app/",
+    "website": "https://kujira.network/",
     "logo": "/logos/kuji.svg",
     "type": "Regular"
 }
